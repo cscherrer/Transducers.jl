@@ -251,9 +251,9 @@ version = "0.21.3"
 
 [[LazyArrays]]
 deps = ["ArrayLayouts", "FillArrays", "LinearAlgebra", "MacroTools", "MatrixFactorizations", "SparseArrays", "StaticArrays"]
-git-tree-sha1 = "721bebe4d0f8581c18fccf272c62000e22a80a2d"
+git-tree-sha1 = "d9a962fac652cc6b0224622b18199f0ed46d316a"
 uuid = "5078a376-72f3-5289-bfd5-ec5146d43c02"
-version = "0.22.10"
+version = "0.22.11"
 
 [[LibCURL]]
 deps = ["LibCURL_jll", "MozillaCACerts_jll"]
@@ -500,9 +500,9 @@ version = "0.33.16"
 
 [[StructArrays]]
 deps = ["Adapt", "DataAPI", "StaticArrays", "Tables"]
-git-tree-sha1 = "9097e2914e179ab1d45330403fae880630acea0b"
+git-tree-sha1 = "9abba8f8fb8458e9adf07c8a2377a070674a24f1"
 uuid = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
-version = "0.6.9"
+version = "0.6.8"
 
 [[TOML]]
 deps = ["Dates"]
